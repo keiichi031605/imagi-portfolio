@@ -4,8 +4,8 @@
       <h1 class="main-image-title mb-5">
         Imagi Kitano
       </h1>
-      <p style="color: black">
-        Hello, my name is Imagi based in Japan. A water colour artist, enjoying to draw nature by inspired Japanese animism.
+      <p style="color: white">
+        Hello, my name is Imagi based in Japan. A water colour artist, enjoying to draw nature inspired by Japanese animism.
       </p>
     </div>
   </div>
