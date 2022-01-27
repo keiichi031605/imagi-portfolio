@@ -25,11 +25,19 @@
           <tbody>
             <tr>
               <td>Name</td>
-              <td>Imagi Kyoka</td>
+              <td>Imagi Kitano</td>
             </tr>
             <tr>
               <td>Works at</td>
               <td>Nagano, Japan</td>
+            </tr>
+            <tr>
+              <td>Specialty</td>
+              <td>Water Color</td>
+            </tr>
+            <tr>
+              <td>Instagram</td>
+              <td><a href='https://www.instagram.com/imagikitano/'><i class="fab fa-instagram"></i> imagikitano</a></td>
             </tr>
           </tbody>
         </table>
@@ -42,11 +50,12 @@
 
 <style>
 tr td a {
-  color: rgba(65, 184, 131);
+  color: rgba(188, 93, 158, 0.5);
+  text-decoration: none;
 }
 
 tr td a:hover {
-  color: rgba(244, 172, 23);
+  color: rgb(244, 52, 23);
   text-decoration: none;
 }
 </style>
