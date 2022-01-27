@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/components/Home'
-import Profile from "@/components/Profile";
+import Profile from '@/components/Profile'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
@@ -17,8 +17,8 @@ export default new Router({
       component: Home
     },
     {
-      path: "/Profile",
-      component: Profile,
+      path: '/Profile',
+      component: Profile
     }
   ]
 })
