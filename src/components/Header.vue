@@ -8,22 +8,22 @@
             <router-link class="nav-link px-4 py-3" to="/">Home</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/introduction">
+            <router-link class="nav-link px-4 py-3" to="/Profile">
               Profile
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/language">
+            <router-link class="nav-link px-4 py-3" to="/Works">
               Works
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/intern">
+            <router-link class="nav-link px-4 py-3" to="/Experience">
               Experience
             </router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link px-4 py-3" to="/portfolio">
+            <router-link class="nav-link px-4 py-3" to="/News">
               News
             </router-link>
           </li>
@@ -40,22 +40,22 @@
           <router-link class="ancar text-white" to="/">Home</router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/introduction">
+          <router-link class="ancar text-white" to="/Profile">
             Profile
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/language">
+          <router-link class="ancar text-white" to="/Works">
             Works
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/intern">
+          <router-link class="ancar text-white" to="/Experience">
             Experience
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/portfolio">
+          <router-link class="ancar text-white" to="/News">
             News
           </router-link>
         </li>
