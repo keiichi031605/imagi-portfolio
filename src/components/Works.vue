@@ -10,7 +10,6 @@
             <vue-lightbox :items="image1" :cells="cells" :width="width" :height="height" />
           </div>
         </div>
-        
         <div class="card col-lg-5 float-left p-0 my-4">
           <div class="card-title mb-0">Title here</div>
           <div class="card-body p-0">
@@ -99,9 +98,9 @@ export default {
     image10: [require('@/assets/work10.jpg')],
     image11: [require('@/assets/work11.jpg')],
     image12: [require('@/assets/work12.jpg')],
-    cells: 5, /// images show ( number value from 1 to 5 )
-    width: '100%', // width container
-    height: '600px' // height container
+    cells: 5,
+    width: '100%',
+    height: '300px'
   })
 }
 </script>

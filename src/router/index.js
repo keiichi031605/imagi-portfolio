@@ -3,6 +3,9 @@ import Router from 'vue-router'
 import Home from '@/components/Home'
 import Profile from '@/components/Profile'
 import Works from '@/components/Works'
+import Experience from '@/components/Experience'
+import News from '@/components/News'
+import Contact from '@/components/Contact'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
@@ -26,6 +29,18 @@ export default new Router({
     {
       path: '/Works',
       component: Works
+    },
+    {
+      path: '/Experience',
+      component: Experience
+    },
+    {
+      path: '/News',
+      component: News
+    },
+    {
+      path: '/Contact',
+      component: Contact
     }
   ]
 })
