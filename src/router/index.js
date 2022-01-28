@@ -6,7 +6,7 @@ import Works from '@/components/Works'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
-import VueLightbox from "vue-lightbox2"
+import VueLightbox from 'vue-lightbox2'
 
 Vue.use(Router)
 Vue.use(BootstrapVue)
