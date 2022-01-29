@@ -37,30 +37,30 @@
       <!-- sp -->
       <ul class="sp px-5">
         <li>
-          <router-link class="ancar text-white" to="/">Home</router-link>
+          <router-link class="ancar text-black" to="/">Home</router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/Profile">
+          <router-link class="ancar text-black" to="/Profile">
             Profile
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/Works">
+          <router-link class="ancar text-black" to="/Works">
             Works
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/Experience">
+          <router-link class="ancar text-black" to="/Experience">
             Experience
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/News">
+          <router-link class="ancar text-black" to="/News">
             News
           </router-link>
         </li>
         <li>
-          <router-link class="ancar text-white" to="/Contact">
+          <router-link class="ancar text-black" to="/Contact">
             Contact
           </router-link>
         </li>
