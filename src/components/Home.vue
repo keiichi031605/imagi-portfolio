@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="main-image">
+    <div class="main-image" :style="background_image">
       <h1 class="main-image-title mb-5">
         Imagi Kitano
       </h1>
@@ -11,11 +11,18 @@
   </div>
 </template>
 
-<script></script>
+<script>
+export default {
+  data () {
+    return {
+      background_image: { backgroundImage: 'url(' + require('@/assets/home.jpeg') + ')' }
+    }
+  }
+}
+</script>
 
 <style scoped>
 .main-image {
-  background-image: url(../assets/home.jpeg);
   height: 100vh
 }
 .main-image-title {
